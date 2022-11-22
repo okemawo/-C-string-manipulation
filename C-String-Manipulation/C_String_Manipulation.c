@@ -131,11 +131,6 @@ bool test_reverse_in_place()
  * Date: 19th November 2022
  */
 
-#include <stdio.h>
-#include <stdbool.h>
-#include <string.h>
-#include <ctype.h>
-
 
 /*
  * Individually reverses each word of a null-terminated string in place. Whitespace characters (as
@@ -273,14 +268,6 @@ bool test_reverse_by_word()
  */
 
 
-#include <stdio.h>
-#include <stdbool.h>
-#include <string.h>
-#include <ctype.h>
-
-
-
-
 /*
  * Returns true if str begins with prefix, and false otherwise. Both prefix and str are null-terminated
  * strings. Note the empty string “” is a valid prefix for all strings.
@@ -405,13 +392,6 @@ bool test_is_prefix()
  * Date: 19th November 2022
  *
  */
-
-#include <stdio.h>
-#include <stdbool.h>
-#include <string.h>
-#include <ctype.h>
-
-
 
 
 /*
@@ -599,10 +579,6 @@ bool  test_remove_last_substr()
  * Date: 19th November 2022
  */
 
-#include <stdio.h>
-#include <stdbool.h>
-#include <string.h>
-#include <ctype.h>
 
 /*
  *
